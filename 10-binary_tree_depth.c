@@ -4,7 +4,7 @@
  * get_depth - function that measures the depth of a binary tree
  *
  * @tree: pointer to node
- * Return: height of a binary tree
+ * Return: depth of a binary tree
  */
 size_t get_depth(const binary_tree_t *tree)
 {
@@ -22,7 +22,7 @@ size_t get_depth(const binary_tree_t *tree)
  * binary_tree_depth - function returns the depth of a binary tree
  *
  * @tree: pointer to node
- * Return: height of a binary tree
+ * Return: depth of a binary tree
  */
 size_t binary_tree_depth(const binary_tree_t *tree)
 {
